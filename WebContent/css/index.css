@@ -1,0 +1,79 @@
+header{
+    height: 175px;
+    position: relative;
+    background-color: white;
+}
+header img{
+    display: block;
+    margin:0 auto;
+    width: 750px;
+}
+html,body{
+    background-color: rgb(240, 240, 240);
+    background: url(bg.jpeg) no-repeat;
+    background-size: cover;
+    margin:0;
+    height: 100%;
+}
+.form-group{
+    display: block;
+    width:420px;
+    position: fixed;
+    top:35%;
+    left: calc(50% - 210px);
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 0 rgb(231, 231, 231);
+    padding:20px;
+}
+.form-item{
+    margin: 15px 0;
+    height: 40px;
+    line-height: 40px;
+}
+.form-item .i-label{
+    display: inline-block;
+    width: 20%;
+    padding: 0 15px;
+    box-sizing: border-box;
+    font-weight: 700;
+}
+.form-item .i-input{
+    outline: none;
+    width: 75%;
+    height: 30px;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 6px;
+    padding: 0 6px;
+    background-color: rgb(241, 241, 241);
+}
+.form-item .i-input:focus{
+    box-shadow: inset 0 0 4px 0 rgb(45, 150, 255), 0 0 4px rgb(40, 134, 228);
+}
+.form-item input{
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-group{
+    text-align: center;
+    margin-top: 25px;
+}
+.btn{
+    padding: 4px 8px;
+    border-radius: 6px;
+    background-color: rgb(40, 134, 228);
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+.btn + .btn{
+    margin-left: 100px;
+}
+.btn-reset{
+    background-color: white;
+    border: 1px solid rgb(241, 241, 241);
+    color: grey;
+}
+.toggle-text{
+    padding-left: 15px;
+}
