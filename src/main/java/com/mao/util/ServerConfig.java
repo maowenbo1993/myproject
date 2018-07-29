@@ -19,7 +19,9 @@ public class ServerConfig implements ServerApplicationConfig {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	//test conflict
 	//test master
 	//test test
 	//test stash
+	//git maowenbo
 }

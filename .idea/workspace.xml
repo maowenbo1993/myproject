@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="2aefe2b2-7e92-4fad-bbd2-ef6f62fe364c" name="Default" comment="">
+=======
     <list default="true" id="1c5f2855-c3c7-4951-8f1d-e685e4e366ac" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> 8c0b1cec37ba5bd757f7a90dc4dfbca0635a5f43
+>>>>>>> e94f17bd29824d0b75c80fd86841ae93503a272e
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mao/util/ServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mao/util/ServerConfig.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,8 +25,17 @@
       <file leaf-file-name="ServerConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mao/util/ServerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="270">
               <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+=======
+            <state relative-caret-position="255">
+<<<<<<< HEAD
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+=======
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+>>>>>>> 8c0b1cec37ba5bd757f7a90dc4dfbca0635a5f43
+>>>>>>> e94f17bd29824d0b75c80fd86841ae93503a272e
             </state>
           </provider>
         </entry>
@@ -58,7 +74,10 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+<<<<<<< HEAD
+=======
       <pane id="AndroidView" />
+>>>>>>> 8c0b1cec37ba5bd757f7a90dc4dfbca0635a5f43
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,11 +115,19 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="AndroidView" />
+=======
+>>>>>>> 8c0b1cec37ba5bd757f7a90dc4dfbca0635a5f43
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+>>>>>>> 8c0b1cec37ba5bd757f7a90dc4dfbca0635a5f43
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -164,17 +191,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="2aefe2b2-7e92-4fad-bbd2-ef6f62fe364c" name="Default" comment="" />
+      <created>1532871221940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532871221940</updated>
+      <workItem from="1532871225537" duration="74000" />
+=======
       <changelist id="1c5f2855-c3c7-4951-8f1d-e685e4e366ac" name="Default" comment="" />
       <created>1532868771047</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532868771047</updated>
       <workItem from="1532868772482" duration="264000" />
+>>>>>>> 8c0b1cec37ba5bd757f7a90dc4dfbca0635a5f43
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1854000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="74000" />
+=======
+    <option name="totallyTimeSpent" value="511000" />
+>>>>>>> 8c0b1cec37ba5bd757f7a90dc4dfbca0635a5f43
+>>>>>>> e94f17bd29824d0b75c80fd86841ae93503a272e
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="0" />
@@ -239,6 +283,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mao/util/ServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+=======
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mao/util/DBUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -264,6 +314,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+>>>>>>> 8c0b1cec37ba5bd757f7a90dc4dfbca0635a5f43
         </state>
       </provider>
     </entry>
