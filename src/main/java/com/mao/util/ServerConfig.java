@@ -13,7 +13,7 @@ public class ServerConfig implements ServerApplicationConfig {
 //		System.out.println("config.." + scan.size());
 		return scan;
 	}
-
+	//lalala
 	@Override
 	public Set<ServerEndpointConfig> getEndpointConfigs(Set<Class<? extends Endpoint>> arg0) {
 		// TODO Auto-generated method stub
