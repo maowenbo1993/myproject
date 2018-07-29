@@ -20,4 +20,6 @@ public class ServerConfig implements ServerApplicationConfig {
 		return null;
 	}
 	//test master
+	//test test
+
 }
